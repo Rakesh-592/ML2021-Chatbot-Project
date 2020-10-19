@@ -4,11 +4,13 @@ Creation of Basic ChatBot which runs on the Terminal
 1)Varanasi Rakesh-Regd.No:18PA1A05G7
 (2)R Harsha-Regd.No:18PA1A05D6
 (3)Rakesh sai sankar-Regd.No:19PA1A0592
-## For youtube video click the below link
+## For youtube video click the link below
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-CnoK_zkHFk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## chat bot greets you and a its a good gesture :)
+## chat bot greets you and its a good gesture :)
+
+![Chatbot1](https://user-images.githubusercontent.com/72605092/96480203-93705780-1257-11eb-88ad-9018ff1874ca.jpg)
 
 # How it works-An insight 
 Hello there! nice to see you checking our project... this is about a simple chat bot. we tell this bot which car do we require in a small automotive showroom.
