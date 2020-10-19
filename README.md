@@ -6,6 +6,9 @@ Creation of Basic ChatBot which runs on the Terminal
 (3)Rakesh sai sankar-Regd.No:19PA1A0592
 # Block Diagram for Reference
 
+![block diagram](https://user-images.githubusercontent.com/72605092/96493531-bbb18380-1262-11eb-853d-736c7362cbd5.PNG)
+
+
 ## For youtube video click the link below
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-CnoK_zkHFk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
