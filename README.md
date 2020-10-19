@@ -4,6 +4,8 @@ Creation of Basic ChatBot which runs on the Terminal
 1)Varanasi Rakesh-Regd.No:18PA1A05G7
 (2)R Harsha-Regd.No:18PA1A05D6
 (3)Rakesh sai sankar-Regd.No:19PA1A0592
+# Block Diagram for Reference
+
 ## For youtube video click the link below
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-CnoK_zkHFk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
