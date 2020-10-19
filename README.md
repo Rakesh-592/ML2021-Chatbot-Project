@@ -8,6 +8,8 @@ Creation of Basic ChatBot which runs on the Terminal
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-CnoK_zkHFk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## chat bot greets you and a its a good gesture :)
+
 # How it works-An insight 
 Hello there! nice to see you checking our project... this is about a simple chat bot. we tell this bot which car do we require in a small automotive showroom.
 Firstly when you enter the interface the bot intoduces itself and asks about the details about the car you want among four indian based Companies.
